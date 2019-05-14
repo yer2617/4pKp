@@ -1,6 +1,6 @@
 {
 	"yt_check_1":1,
-	"yt_check_2":"1.4.2",
+	"yt_check_2":"1.4.3",
 	"double_md5":"3A202635D4F86E7495802BDD761B541E",
 	"is_demo":"0",
 	"is_log_open":"0",
