@@ -8,6 +8,6 @@
 	"is_release":"1",
 	"app_no":"0000001",
 	"check_code":"70F13F4F1E7A008DF9F85F72F37A32E1",
-	"h5_server":"https://www.imitu3.com/"
+	"h5_server":"https://www.mituyuedu.com/"
 	
 }
